@@ -1,0 +1,14 @@
+{
+  "appId": "com.jonaminz.skhps",
+  "appName": "SKHPS DEV",
+  "webDir": "www",
+  "server": {
+    "url": "https://dev-skhps.jonaminz.com",
+    "cleartext": false,
+    "allowNavigation": [
+      "dev-skhps.jonaminz.com",
+      "skhps.jonaminz.com",
+      "*.jonaminz.com"
+    ]
+  }
+}

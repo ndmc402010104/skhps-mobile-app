@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SKHPS</string>
+    <string name="title_activity_main">SKHPS</string>
+    <string name="package_name">com.jonaminz.skhps</string>
+    <string name="custom_url_scheme">com.jonaminz.skhps</string>
+</resources>
