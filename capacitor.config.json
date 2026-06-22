@@ -8,7 +8,9 @@
     "allowNavigation": [
       "dev-skhps.jonaminz.com",
       "skhps.jonaminz.com",
-      "*.jonaminz.com"
+      "*.jonaminz.com",
+      "script.google.com",
+      "script.googleusercontent.com"
     ]
   }
 }
